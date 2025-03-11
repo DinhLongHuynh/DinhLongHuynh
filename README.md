@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dinh Long.
-- 👀 I’m interested in Computation Methods For Drug Discovery, both physic-based and ML.
+- 👀 I’m interested in Computation Methods For Drug Discovery, both physic-based and ML-based.
 - 🌱 I’m currently learning Pharmaceutical Modelling at Uppsala University
 
 
