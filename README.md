@@ -18,7 +18,7 @@ I am on my way to become a **Cheminformatician**. My passion lies in the interse
 ## 📫 Connect with Me
 - 🔗 **LinkedIn**: [linkedin.com/in/dinh-long-huynh-996193241](https://www.linkedin.com/in/dinh-long-huynh-996193241/)
 - 💻 **GitHub**: [github.com/DinhLongHuynh](https://github.com/DinhLongHuynh)
-- 📧 Reach me via email: dinhlong240600 [at] gmail.com
+- 📧 Reach me via email: dinhlong240600@gmail.com
 
 ## 🛠️ Tech Stack
 - **Programming**: Python, R, Bash, SQL
