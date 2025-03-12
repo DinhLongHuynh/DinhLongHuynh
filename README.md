@@ -1,13 +1,13 @@
 # Hi there, I'm Dinh Long Huynh! 👋
 
 ## 🚀 About Me
-I am a **Machine Learning Engineer** and a **final-year Master's student in Cheminformatics & Pharmaceutical Modeling** at **Uppsala University**. My passion lies in the intersection of **Artificial Intelligence, Computational Chemistry, and Pharmacokinetics-Pharmacodynamics (PK-PD) modeling**. I specialize in applying **Graph Neural Networks (GNNs) and Explainability Techniques (LRP, GNNExplainer, PGExplainer, Causal Screening)** to interpret molecular predictions, making AI-driven drug discovery more transparent and trustworthy.
+I am on the way to become a **Cheminformatician** **Machine Learning Engineer**. My passion lies in the intersection of **Drug Discovery Modelling, Artificial Intelligence, and Computational Chemistry**. I specialize in applying **Explainability Techniques** to **ML Models** to interpret molecular predictions, making AI-driven drug discovery more transparent and trustworthy. I am fascinated by how **molecules can have a massive impact on human health**. My goal is to become an **expert in modeling**, helping teams make better, data-driven drug discovery decisions.
+
 
 ## 🔬 Research & Work Interests
-- **PK-PD Modeling & Simulation**: Bridging ML with pharmacometrics to enhance drug development.
 - **Interpretable AI for Drug Discovery**: Applying LRP and other techniques to explain GNN-based molecular predictions.
-- **Cheminformatics & Computational Chemistry**: Working with molecular fingerprints, docking simulations, and structure-activity relationships (SAR).
-- **Data Science & Machine Learning**: From real-world messy datasets to advanced hyperparameter tuning with **RayTune & Hyperopt**.
+- **PK-PD Modeling & Simulation**: Building pharmacometrics pipeline to enhance automation.
+- **Cheminformatics & Computational Chemistry**: Working with molecular fingerprints, docking, MD simulations, and structure-activity relationships (SAR).
 
 ## 🌟 Highlights
 - Developed a **Graph Neural Network interpretation pipeline** for docking score prediction.
@@ -18,23 +18,15 @@ I am a **Machine Learning Engineer** and a **final-year Master's student in Chem
 ## 📫 Connect with Me
 - 🔗 **LinkedIn**: [linkedin.com/in/dinh-long-huynh-996193241](https://www.linkedin.com/in/dinh-long-huynh-996193241/)
 - 💻 **GitHub**: [github.com/DinhLongHuynh](https://github.com/DinhLongHuynh)
-- 📧 Reach me via email: dinhlong.huynh [at] example.com *(replace [at] with @)*
+- 📧 Reach me via email: dinhlong240600 [at] gmail.com
 
 ## 🛠️ Tech Stack
 - **Programming**: Python, R, Bash, SQL
-- **ML/AI**: PyTorch Geometric, TensorFlow, scikit-learn, RayTune
-- **Cheminformatics**: RDKit, OpenBabel, Schrödinger Suite
-- **PKPD Modeling**: NONMEM, Monolix, R-based PKPD tools
+- **ML/AI**: PyTorch, TensorFlow, scikit-learn, RayTune
+- **Cheminformatics**: RDKit, Schrödinger Suite, Glide
+- **PKPD Modeling**: NONMEM and R-based PKPD tools
 - **Tools & Workflow**: Git, Docker, Linux, Jupyter Notebooks
-
-## 🌱 Currently Learning
-- Advanced **Bayesian Optimization** for hyperparameter tuning
-- **Federated Learning** in drug discovery
-- **Automated PK-PD data cleaning pipelines**
-
-## 💡 Fun Fact
-I am fascinated by how **small molecules can have a massive impact on human health**. My goal is to become an **expert in PK-PD modeling**, helping teams make better, data-driven drug development decisions.
-
+  
 ---
 🧑‍💻 *Always open to discussions on AI, pharmacology, and computational modeling—let's connect!*
 
