@@ -9,11 +9,6 @@ I am on my way to become a **Cheminformatician**. My passion lies in the interse
 - **PK-PD Modeling & Simulation**: Building pharmacometrics pipeline to enhance automation.
 - **Cheminformatics & Computational Chemistry**: Working with molecular fingerprints, docking, MD simulations, and structure-activity relationships (SAR).
 
-## 🌟 Highlights
-- Developed a **Graph Neural Network interpretation pipeline** for docking score prediction.
-- Built a **PKPD Simulation and Analysis website** to accelerate collaboration in pharmaceutical modeling.
-- Experienced with **NONMEM, Python, R**, and various cheminformatics tools like **RDKit, Schrödinger Maestro**.
-- Passionate about **scientific communication** and making ML models more understandable for domain experts.
 
 ## 📫 Connect with Me
 - 🔗 **LinkedIn**: [linkedin.com/in/dinh-long-huynh-996193241](https://www.linkedin.com/in/dinh-long-huynh-996193241/)
