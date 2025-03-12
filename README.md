@@ -1,7 +1,7 @@
 # Hi there, I'm Dinh Long Huynh! 👋
 
 ## 🚀 About Me
-I am on my way to become a **Cheminformatician** **Machine Learning Engineer**. My passion lies in the intersection of **Drug Discovery Modelling, Artificial Intelligence, and Computational Chemistry**. I specialize in applying **Explainability Techniques** to **ML Models** to interpret molecular predictions, making AI-driven drug discovery more transparent and trustworthy. I am fascinated by how **molecules can have a massive impact on human health**. My goal is to become an **expert in modeling**, helping teams make better, data-driven drug discovery decisions.
+I am on my way to become a **Cheminformatician**. My passion lies in the intersection of **Drug Discovery Modelling, Artificial Intelligence, and Computational Chemistry**. I specialize in applying **Explainability Techniques** to **ML Models** to interpret molecular predictions, making AI-driven drug discovery more transparent and trustworthy. I am fascinated by how **molecules can have a massive impact on human health**. My goal is to become an **expert in modeling**, helping teams make better, data-driven drug discovery decisions.
 
 
 ## 🔬 Research & Work Interests
