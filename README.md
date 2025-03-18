@@ -5,8 +5,8 @@ I am on my way to become a **Cheminformatician**. My passion lies in the interse
 
 
 ## 🔬 Research & Work Interests
-- **Interpretable AI for Drug Discovery**: Applying LRP and other techniques to explain GNN-based molecular predictions.
-- **PK-PD Modeling & Simulation**: Building pharmacometrics pipeline to enhance automation.
+- **Interpretable AI for Drug Discovery**: Applying LRP and other techniques to explain GNN-based models in the context of medicinal chemistry
+- **PK-PD Modeling & Simulation**: Building PKPD pipeline to enhance automation.
 - **Cheminformatics & Computational Chemistry**: Working with molecular fingerprints, docking, MD simulations, and structure-activity relationships (SAR).
 
 
