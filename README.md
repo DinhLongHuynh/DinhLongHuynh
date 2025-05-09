@@ -12,7 +12,7 @@ I am on my way to become a **Cheminformatician**. My passion lies in the interse
 
 ## 📫 Connect with Me
 - 🔗 **LinkedIn**: [linkedin.com/in/dinh-long-huynh-996193241](https://www.linkedin.com/in/dinh-long-huynh-996193241/)
-- 💻 **GitHub**: [github.com/DinhLongHuynh](https://github.com/DinhLongHuynh)
+- 💻 **Blog**: [https://medium.com/@dinhlong240600](https://medium.com/@dinhlong240600)
 - 📧 Reach me via email: dinhlong240600@gmail.com
 
 ## 🛠️ Tech Stack
