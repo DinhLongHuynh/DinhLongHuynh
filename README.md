@@ -14,7 +14,7 @@ I am on my way to become an AI engineer in **Drug Discovery Domain**. My passion
 ## 📫 Connect with Me
 - 🔗 **LinkedIn**: [linkedin.com/in/dinh-long-huynh-996193241](https://www.linkedin.com/in/dinh-long-huynh-996193241/)
 - 💻 **Blog**: [https://medium.com/@dinhlong240600](https://medium.com/@dinhlong240600)
-- 📧 Reach me via email: dinhlong240600@gmail.com
+- 📧 Reach me via email: dinh-long.huynh@uu.se
 
 ## 🛠️ Tech Stack
 - **Programming**: Python, R, Bash, SQL
