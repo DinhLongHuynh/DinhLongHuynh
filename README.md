@@ -1,7 +1,9 @@
 # Hi there, I'm Dinh Long Huynh! 👋
 
 ## 🚀 About Me
-I am on my way to become an AI engineer in **Drug Discovery Domain**. My passion lies in the intersection of **Drug Discovery Modelling, Artificial Intelligence, and Computational Chemistry**. I specialize in implementing **Agentic AI** and applying **Explainability Techniques** to **ML Models** to interpret molecular predictions, making AI-driven drug discovery more transparent and trustworthy. I am fascinated by how **molecules and data can have a massive impact on human health**.
+- PhD Student in AI Agent for Drug Discovery (Uppsala University - 🇸🇪)
+- Master in Pharmaceutical Modelling (Uppsala University - 🇸🇪)
+- Bachelor in Chemistry Education (HCMUE - 🇻🇳)
 
 
 ## 🔬 Research & Work Interests
@@ -15,13 +17,6 @@ I am on my way to become an AI engineer in **Drug Discovery Domain**. My passion
 - 🔗 **LinkedIn**: [linkedin.com/in/dinh-long-huynh-996193241](https://www.linkedin.com/in/dinh-long-huynh-996193241/)
 - 💻 **Blog**: [https://medium.com/@dinhlong240600](https://medium.com/@dinhlong240600)
 - 📧 Reach me via email: dinh-long.huynh@uu.se
-
-## 🛠️ Tech Stack
-- **Programming**: Python, R, Bash, SQL
-- **ML/AI**: PyTorch, TensorFlow, scikit-learn, RayTune, LangChain, LangGraph
-- **Cheminformatics**: RDKit, Schrödinger Suite, Glide
-- **PKPD Modeling**: NONMEM and R-based PKPD tools
-- **Tools & Workflow**: Git, Docker, Linux, Jupyter Notebooks
   
 ---
 🧑‍💻 *Always open to discussions on AI, pharmacology, and computational modeling—let's connect!*
