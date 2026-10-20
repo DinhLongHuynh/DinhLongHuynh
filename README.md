@@ -1,4 +1,4 @@
-# Hi there, I'm Dinh Long Huynh! 👋
+# Hi there, I'm Dinh Long Huynh (Chris Huynh)! 👋
 
 ## 🚀 About Me
 - PhD Student in AI Agent for Drug Discovery (Uppsala University - 🇸🇪)
@@ -8,7 +8,7 @@
 
 ## 🔬 Research & Work Interests
 - **Agentic AI**: Implementing autonomous system using agentic AI to accelerate drug discovery.
-- **Interpretable AI for Drug Discovery**: Applying LRP and other techniques to explain GNN-based models in the context of medicinal chemistry
+- **Explainable AI for Drug Discovery**: Applying LRP and other techniques to explain GNN-based models in the context of medicinal chemistry
 - **Cheminformatics & Computational Chemistry**: Working with molecular fingerprints, docking, MD simulations, and structure-activity relationships (SAR).
 - **PK-PD Modeling & Simulation**: Building PKPD pipeline to enhance automation.
 
