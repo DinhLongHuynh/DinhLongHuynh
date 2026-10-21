@@ -11,6 +11,7 @@
 - **Explainable AI for Drug Discovery**: Applying LRP and other techniques to explain GNN-based models in the context of medicinal chemistry
 - **Cheminformatics & Computational Chemistry**: Working with molecular fingerprints, docking, MD simulations, and structure-activity relationships (SAR).
 - **PK-PD Modeling & Simulation**: Building PKPD pipeline to enhance automation.
+- **Constructing educational content**: Organizing workshop, educational course and materials on [AI Agents in Life Sciences](https://github.com/ScilifelabDataCentre/scilifelab-ai-agent-mcp-workshop-2026-06-09). 
 
 
 
